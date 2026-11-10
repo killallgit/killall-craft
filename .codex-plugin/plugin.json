@@ -1,0 +1,18 @@
+{
+  "name": "killall-craft",
+  "version": "0.1.0",
+  "description": "Programming principles as skills, each loaded at the moment it applies",
+  "author": {
+    "name": "archae0pteryx",
+    "url": "https://github.com/killallgit"
+  },
+  "homepage": "https://github.com/killallgit/killall-craft",
+  "repository": "https://github.com/killallgit/killall-craft",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Killall Craft",
+    "shortDescription": "House rules plus one skill per programming principle.",
+    "developerName": "archae0pteryx",
+    "category": "Productivity"
+  }
+}

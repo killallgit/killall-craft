@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "killall-craft",
+  "description": "Programming principles as skills, each loaded at the moment it applies.",
+  "owner": {
+    "name": "archae0pteryx",
+    "url": "https://github.com/killallgit"
+  },
+  "plugins": [
+    {
+      "name": "killall-craft",
+      "source": "./",
+      "description": "House rules plus one skill per programming principle, triggered by the moment it applies.",
+      "category": "development",
+      "homepage": "https://github.com/killallgit/killall-craft"
+    }
+  ]
+}
